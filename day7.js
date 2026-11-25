@@ -1,5 +1,5 @@
 let student = {
-  name : 'Suriya',
+  name : 'Sivakumar',
   mark : 485,
   location : 'Chennai'
 }
