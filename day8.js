@@ -8,7 +8,7 @@ let course = ["javascript", "playwright", "Gen AI"];
 console.log(course);
 
 // used to add the value at end of the array
-course.push("Framework");
+course.push("Framework class");
 course.push("API Testing");
 course.push("Git and Github");
 console.log(course);
