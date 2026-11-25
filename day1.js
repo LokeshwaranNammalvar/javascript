@@ -1,4 +1,4 @@
-console.log("Hello welcome to javascript class"); 
+console.log("Hello welcome to JS class"); 
 
 console.log('How are you?');
 
